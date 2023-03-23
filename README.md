@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-deploy">Deploy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -28,6 +29,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - responsividade
 - Javascript: variáveis, estrutura de repetição, condicionais (if/else) e ternários
 - DOM: `querySelectorAll()`, `getAttribute()`, `setAttribute()`, `classList`, `.toggle()`
+
+## 📃 Deploy
+
+VocÊ pode acessar o projeto através [DESSE LINK](https://fmtgomes.github.io/Login-Page/).
 
 ## 🔖 Layout
 
