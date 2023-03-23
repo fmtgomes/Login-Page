@@ -4,13 +4,13 @@
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
 <p align="center">
-  <img src=".github/preview.jpg" width="100%">
+  <img src="./github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
